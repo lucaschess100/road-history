@@ -9,7 +9,7 @@
 // @include             https://beta.waze.com/*/editor/*
 // @exclude             https://www.waze.com/user/*
 // @exclude             https://www.waze.com/*/user/*
-// @version             1.2.5
+// @version             1.2.6
 // @grant               none
 // @namespace           https://greasyfork.org/es/scripts/21956-wme-road-history
 // @copyright           2015 wlodek76 ; 2016  lucaschess100
@@ -17,7 +17,7 @@
 // old namespace        https://greasyfork.org/pl/scripts/8593-wme-road-history
 // ==/UserScript==
 
-var wmech_version = "1.2.5";
+var wmech_version = "1.2.6";
 
 var epsg900913 = new OpenLayers.Projection("EPSG:900913");
 var epsg4326   = new OpenLayers.Projection("EPSG:4326");
