@@ -12,7 +12,7 @@
 // @version             1.2.6
 // @grant               none
 // @namespace           https://greasyfork.org/es/scripts/21956-wme-road-history
-// @copyright           2015 wlodek76 ; 2016  lucaschess100
+// @copyright           2015 wlodek76 ; 2016-2017  lucaschess100
 // @credits             FZ69617 tips and tricks
 // old namespace        https://greasyfork.org/pl/scripts/8593-wme-road-history
 // ==/UserScript==
